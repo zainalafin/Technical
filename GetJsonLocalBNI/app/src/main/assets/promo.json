@@ -1,0 +1,72 @@
+[
+  {
+    "Title": "<null>",
+    "alt": 17,
+    "count": 14,
+    "createdAt": "2021-04-13",
+    "created_at": "2021-04-14T03:35:07.506Z",
+    "desc": "Potongan langsung (diskon) Rp 150.000,- untuk minimal transaksi Rp 1.000.000, kuota 15 transaksi pertama per hari.\n- Berlaku tiap Kamis dan Jumat.\n- Berlaku untuk pembelian Tiket Sriwijaya Air dan NAM Air di Website dan Mobile Apps Sriwijaya Air\n- Potongan harga langsung diperoleh ketika nomor Kartu BNI dimasukkan (tanpa kode promo)\n- Syarat dan ketentuan berlaku\nInfo lebih lanjut hubungi BNI Call 1500046",
+    "desc_promo": "<null>",
+    "id": 8,
+    "img": {
+      "alternativeText": "",
+      "caption": "",
+      "created_at": "2021-04-02T19:17:54.427Z",
+      "ext": ".jpg",
+      "formats": {
+        "medium": {
+          "ext": ".jpg",
+          "hash": "medium_bni_credit_card_banner_fitur_mbanking_small_b8d822ed1c",
+          "height": 328,
+          "mime": "image/jpeg",
+          "name": "medium_bni-credit-card-banner-fitur-mbanking-small.jpg",
+          "path": "<null>",
+          "size": "33.43",
+          "url": "https://strapi-jkt-digi46.s3.ap-southeast-3.amazonaws.com/medium_bni_credit_card_banner_fitur_mbanking_small_b8d822ed1c.jpg",
+          "width": 750
+        },
+        "small": {
+          "ext": ".jpg",
+          "hash": "small_bni_credit_card_banner_fitur_mbanking_small_b8d822ed1c",
+          "height": 219,
+          "mime": "image/jpeg",
+          "name": "small_bni-credit-card-banner-fitur-mbanking-small.jpg",
+          "path": "<null>",
+          "size": "18.45",
+          "url": "https://strapi-jkt-digi46.s3.ap-southeast-3.amazonaws.com/small_bni_credit_card_banner_fitur_mbanking_small_b8d822ed1c.jpg",
+          "width": 500
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "hash": "thumbnail_bni_credit_card_banner_fitur_mbanking_small_b8d822ed1c",
+          "height": 107,
+          "mime": "image/jpeg",
+          "name": "thumbnail_bni-credit-card-banner-fitur-mbanking-small.jpg",
+          "path": "<null>",
+          "size": "6.15",
+          "url": "https://strapi-jkt-digi46.s3.ap-southeast-3.amazonaws.com/thumbnail_bni_credit_card_banner_fitur_mbanking_small_b8d822ed1c.jpg",
+          "width": 245
+        }
+      },
+      "hash": "bni_credit_card_banner_fitur_mbanking_small_b8d822ed1c",
+      "height": 361,
+      "id": 3,
+      "mime": "image/jpeg",
+      "name": "bni-credit-card-banner-fitur-mbanking-small.jpg",
+      "previewUrl": "<null>",
+      "provider": "aws-s3",
+      "provider_metadata": "<null>",
+      "size": "39.9",
+      "updated_at": "2021-04-02T19:17:54.453Z",
+      "url": "https://strapi-jkt-digi46.s3.ap-southeast-3.amazonaws.com/bni_credit_card_banner_fitur_mbanking_small_b8d822ed1c.jpg",
+      "width": 825
+    },
+    "latitude": "-6.203606",
+    "lokasi": "Pejompongan",
+    "longitude": "106.803022",
+    "nama": "BNI Credit Card",
+    "name_promo": "<null>",
+    "published_at": "2021-04-14T03:35:09.233Z",
+    "updated_at": "2021-07-31T14:48:46.361Z"
+  }
+]
